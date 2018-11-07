@@ -1,6 +1,6 @@
-const Contact = require("./contactForm")
-const getContactList = require("./contactList")
-const render = require("./render")
+import Contact from "./contactForm"
+import {list as getContactList} from "./contactList"
+
 
 // Fetch all the current contacts from the db on page load
 getContactList()

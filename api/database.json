@@ -1,88 +1,46 @@
 {
   "contacts": [
     {
-      "firstName": "Test",
-      "lastName": "Test",
-      "city": "Test",
-      "phone": "Test",
+      "firstName": "Jenna",
+      "lastName": "Solis",
+      "city": "Ewa Beach",
+      "phone": "555-555-5555",
       "id": 1
     },
     {
-      "firstName": "jenna",
-      "lastName": "solis",
-      "city": "ad",
-      "phone": "8888",
+      "firstName": "Peyton ",
+      "lastName": "Womack",
+      "city": "Aiea",
+      "phone": "555-555-5555",
       "id": 2
     },
     {
-      "firstName": "jenna",
-      "lastName": "solis",
-      "city": "ad",
-      "phone": "8888",
+      "firstName": "Kekoa",
+      "lastName": "Womack",
+      "city": "Liea",
+      "phone": "555-555-5555",
       "id": 3
     },
     {
-      "firstName": "fs",
-      "lastName": "sf",
-      "city": "sf",
-      "phone": "sfs",
+      "firstName": "fa",
+      "lastName": "df",
+      "city": "df",
+      "phone": "df",
       "id": 4
     },
     {
-      "firstName": "Hello",
-      "lastName": "jsldkj",
-      "city": "dgfa",
-      "phone": "sdf",
+      "firstName": "alkks",
+      "lastName": "df",
+      "city": "df",
+      "phone": "df",
       "id": 5
     },
     {
-      "firstName": "jlkj",
-      "lastName": ";'",
-      "city": ";jhhjg",
-      "phone": ";kjjkh",
+      "firstName": "dfd",
+      "lastName": "solis",
+      "city": "",
+      "phone": "",
       "id": 6
-    },
-    {
-      "firstName": "jlkj",
-      "lastName": ";'",
-      "city": ";jhhjg",
-      "phone": ";kjjkh",
-      "id": 7
-    },
-    {
-      "firstName": "lk;jl;lkj",
-      "lastName": ";lkjh",
-      "city": "fdhrdhgf",
-      "phone": "gvgjg",
-      "id": 8
-    },
-    {
-      "firstName": "jenna",
-      "lastName": "solis",
-      "city": "gsdg",
-      "phone": "fs",
-      "id": 9
-    },
-    {
-      "firstName": "jenna",
-      "lastName": "solis",
-      "city": "gsdg",
-      "phone": "fs",
-      "id": 10
-    },
-    {
-      "firstName": "hdhghj",
-      "lastName": "sadf",
-      "city": "dfg",
-      "phone": "jd",
-      "id": 11
-    },
-    {
-      "firstName": "fhjdfj",
-      "lastName": "dfg",
-      "city": "hjdh",
-      "phone": "hsddf",
-      "id": 12
     }
   ]
 }

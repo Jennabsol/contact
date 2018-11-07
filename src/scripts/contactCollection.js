@@ -18,4 +18,4 @@ const data = {
     }
 }
 
-module.exports = data
+export {data}

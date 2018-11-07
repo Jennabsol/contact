@@ -8,4 +8,4 @@ const contactComponent = (props)=>{
     </div>`
 }
 
-module.exports = contactComponent
+export {contactComponent}

@@ -1,6 +1,6 @@
-const API = require("./contactCollection")
+import {data as API} from "./contactCollection"
 
-class Contact {
+export default class Contact {
     constructor(props) {
         this.firstName = props.firstName
         this.lastName = props.lastName
@@ -22,4 +22,3 @@ class Contact {
     }
 }
 
-module.exports = Contact

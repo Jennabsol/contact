@@ -4,4 +4,4 @@ const render = (components) => {
     container.innerHTML += components
 }
 
-module.exports = render
+export {render}
